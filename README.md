@@ -24,9 +24,9 @@ export default class Alfarrh {
 
 ## **Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarrh&theme=dracula" />
-</a>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfarrh&theme=dracula" />
+
 
 <a href="https://github.com/Gurupreet">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=alfarrh&show_icons=true&theme=dracula&line_height=27&hide=stars" alt="**alfarrh** github stats"/>
