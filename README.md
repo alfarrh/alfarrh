@@ -9,7 +9,7 @@ Estudante de Engenharia de Computação - UTFPR 💻
 ```typescript
 export default class Alfarrh {
  const name = "Álvaro Henrique Nunes de Lima";
- var acknowledgements = "Dev";
+ var acknowledgements = "dev";
 
  var languages = { "C", "Python", "JavaScript", "TypeScript" }; 
 }
